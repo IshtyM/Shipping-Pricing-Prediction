@@ -6,4 +6,3 @@ The classical machine learning tasks like Data Exploration, Data Cleaning, Featu
 Dashboard is fomed using the data in the excel for the further detailed study. 
 
 During the visualisation in Python, few questions are answered like Which Country and Brand has the maximum Unit Price, Which Dosage Form has maximum Pack Price or maximum shipped in terms of price etc.
-Since, the visualisation is done using the plotly, the plotly graphs are visible on 
